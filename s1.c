@@ -5,5 +5,6 @@ int main(){
 	int sum = a + b;
 	printf(sum);
 	printf("hello world");
+	printf("^t lab");
 	return 0;
 }
